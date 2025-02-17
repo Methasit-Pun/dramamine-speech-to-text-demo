@@ -20,6 +20,8 @@ The Dramamine Text-to-Speech project is an interactive web application that comb
 - react-youtube (for YouTube video integration)
 - Web Speech API (for speech recognition)
 
+
+
 ## Prerequisites
 - Node.js (v14 or later)
 - npm or yarn
