@@ -1,5 +1,8 @@
 # Dramamine Text-to-Speech Project
 
+
+https://youtu.be/JSquQb-uzpI?list=TLGGonKojYy4kb0yMDAyMjAyNQ
+
 ## Overview
 
 The Dramamine Text-to-Speech project is an interactive web application that combines speech recognition with dynamic text display and background video playback. It's designed to create a meme motivational speech for your friend
