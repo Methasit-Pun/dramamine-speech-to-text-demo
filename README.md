@@ -1,7 +1,7 @@
 # Dramamine Text-to-Speech Project
 
 
-https://youtu.be/JSquQb-uzpI?list=TLGGonKojYy4kb0yMDAyMjAyNQ
+[![Watch the video](https://img.youtube.com/vi/JSquQb-uzpI/maxresdefault.jpg)](https://youtu.be/JSquQb-uzpI?list=TLGGonKojYy4kb0yMDAyMjAyNQ)
 
 ## Overview
 
